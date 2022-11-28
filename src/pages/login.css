@@ -1,0 +1,23 @@
+.container{
+  display: flex;
+  justify-content: center;
+}
+
+#titleLogin {
+  position: absolute;
+  margin-bottom: 10px;
+  text-align: center;
+  color: rgb(7, 0, 0);
+}
+
+#login {
+  position: relative;
+  margin-bottom: 50px;
+}
+  
+
+ 
+  button:disabled {
+    background: #474a7c;
+    cursor: not-allowed;
+  }
