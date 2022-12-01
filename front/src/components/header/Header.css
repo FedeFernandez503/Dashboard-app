@@ -1,0 +1,38 @@
+.header__ctn{
+  text-align: center;
+  background-color: #212529;
+  padding: 16px;
+}
+
+.header__nav-ctn,
+.header__nav-ctn ul{
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
+
+.header__nav-ctn{
+  max-width: 1000px;
+  margin: auto;
+  color: #fff
+}
+
+.header__title{
+  font-size: 24px;
+  margin: 0;
+  font-weight: 500;
+  color:#fff;
+  text-decoration: none;
+}
+
+.header__nav-ctn nav{
+  margin-left: auto;
+}
+.header__nav-ctn ul{
+  gap: 30px;
+}
+.header__nav-ctn ul a{
+  font-size: 18px;
+  color: #fff;
+  text-decoration: none;
+}

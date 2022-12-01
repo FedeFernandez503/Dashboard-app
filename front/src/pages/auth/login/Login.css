@@ -1,0 +1,11 @@
+.login{
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.login__form{
+  padding: 30px;
+  border-radius: 10px;
+}

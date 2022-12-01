@@ -1,0 +1,17 @@
+footer{
+  text-align: center;
+  padding: 20px;
+  border-top: 1px solid #ddd;
+}
+
+footer > .social{
+  margin-top: 20px;
+}
+
+footer .icon{
+  font-size: 24px;
+}
+
+footer .icon:not(:first-child) {
+  margin-left: 10px;
+}
